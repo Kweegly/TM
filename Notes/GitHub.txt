@@ -1,0 +1,11 @@
+http://www.youtube.com/watch?v=0fKg7e37bQE
+
+Git Clone https://github.com/Kweegly/TM.git (ADDS FILES TO LOCAL MACHINE FROM GITHUB
+
+Git Status (CHECKS IF ANY FILES REQUIRE COMITING TO GITHUB)
+
+Git Add   (Git Add Index.hmtl or Git Add .) (ADD FILES READY TO COMIT TO GITHUB)
+
+Git Commit - (-m adds message) (COMITS ANY CHANGES TO GITHUB
+
+Git Push - (PUSHES CHANGES TO GITHUB)
