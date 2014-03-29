@@ -14,7 +14,7 @@ git push - (PUSHES CHANGES TO GITHUB)
 git pull - (PULLS CHANGES FROM GIT HUB)
 
 
-To exit UNIX console. Press ESC ; wq
+To exit UNIX console. Press ESC : wq
 
 
 
