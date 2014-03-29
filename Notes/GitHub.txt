@@ -11,4 +11,10 @@ git commit - (-m adds message) (COMITS ANY CHANGES TO GITHUB)
 git push - (PUSHES CHANGES TO GITHUB)
 
 
-git pulll - (PULLS CHANGES FROM GIT HUB)
+git pull - (PULLS CHANGES FROM GIT HUB)
+
+
+To exit UNIX console. Press ESC ; wq
+
+
+
